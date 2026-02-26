@@ -19,7 +19,7 @@
 ## 🎥 Demo Video
 
 👉 Watch Full App Demo Here:  
-[Click to Watch Demo Video](https://your-video-link-here.com)
+[Click to Watch Demo Video](/Users/niraj/Downloads/react-native-recipe-app-master/mobile/assets/images/React-food-recipie.mp4)
 
 > You can upload demo video to:
 > - YouTube (Unlisted)
