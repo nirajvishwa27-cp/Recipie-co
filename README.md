@@ -3,7 +3,7 @@
 ## 📱 App Preview
 
 ### 🏠 Home Screen
-![Home Screen](./mobile/assets/screenshots/home.png)
+![Home Screen](./mobile/assets/images/home.jpeg)
 
 ### 🔍 Search & Categories
 ![Search Screen](./mobile/assets/screenshots/search.png)
