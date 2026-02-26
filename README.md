@@ -1,31 +1,5 @@
 <h1 align="center">🍽️ React Native Recipe App 🍽️</h1>
 
-## 📱 App Preview
-
-### 🏠 Home Screen
-![Home Screen](./mobile/assets/images/home.jpeg)
-
-### 🔍 Search & Categories
-![Search Screen](./mobile/assets/screenshots/search.png)
-
-### 📖 Recipe Details
-![Recipe Details](./mobile/assets/screenshots/details.png)
-
-### ❤️ Favorites
-![Favorites](./mobile/assets/screenshots/favorites.png)
-
----
-
-## 🎥 Demo Video
-
-👉 Watch Full App Demo Here:  
-[Click to Watch Demo Video](/Users/niraj/Downloads/react-native-recipe-app-master/mobile/assets/images/React-food-recipie.mp4)
-
-> You can upload demo video to:
-> - YouTube (Unlisted)
-> - Loom
-> - Google Drive (public link)
-
 Highlights:
 
 - 🔐 Signup, Login, and 6-Digit Email Verification with **Clerk**
