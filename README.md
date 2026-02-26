@@ -1,6 +1,30 @@
 <h1 align="center">🍽️ React Native Recipe App 🍽️</h1>
 
-![Demo App](/mobile/assets/images/c.jpeg)
+## 📱 App Preview
+
+### 🏠 Home Screen
+![Home Screen](./mobile/assets/screenshots/home.png)
+
+### 🔍 Search & Categories
+![Search Screen](./mobile/assets/screenshots/search.png)
+
+### 📖 Recipe Details
+![Recipe Details](./mobile/assets/screenshots/details.png)
+
+### ❤️ Favorites
+![Favorites](./mobile/assets/screenshots/favorites.png)
+
+---
+
+## 🎥 Demo Video
+
+👉 Watch Full App Demo Here:  
+[Click to Watch Demo Video](https://your-video-link-here.com)
+
+> You can upload demo video to:
+> - YouTube (Unlisted)
+> - Loom
+> - Google Drive (public link)
 
 Highlights:
 
